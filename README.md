@@ -1,4 +1,3 @@
-# Credit-Card-Fraud-detection
 <h1 align="center" id="title">Credit-Card-Fraud-detection</h1>
 
 <p align="center"><img src="https://unsplash.com/photos/a-person-holding-a-credit-card-and-a-cell-phone-aGkR0b7hgI8" alt="project-image"></p>
