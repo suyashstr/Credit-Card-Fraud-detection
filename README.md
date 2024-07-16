@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Credit-Card-Fraud-detection</h1>
 
-<p align="center"><img src="https://unsplash.com/photos/a-person-holding-a-credit-card-and-a-cell-phone-aGkR0b7hgI8" alt="project-image"></p>
+<p align="center"></p>
 
 <p id="description">This repository contains a project focused on detecting credit card fraud using machine learning techniques. The project aims to identify fraudulent transactions from a dataset of credit card transactions. Dataset The dataset used in this project is a collection of credit card transactions with features that have been transformed the dataset is highly imbalanced with the majority of transactions being non-fraudulent.</p>
 
