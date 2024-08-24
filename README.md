@@ -47,12 +47,11 @@ Technologies used in the project:
 This project is licensed under the This project is licensed under the MIT License
 
 <h2> Summary: Credit Card Fraud Detection Project Overview</h2>
-<p>
-  
-Goal:
+<br>
+<p>Goal:
 The goal of this project is to build a system that can detect fraudulent credit card transactions. This helps in preventing unauthorized transactions and protecting both consumers and financial institutions.
 
-<h2>Steps Involved:<h2>
+Steps Involved:
 Data Collection:
 We started by collecting a dataset containing information about various credit card transactions. Each transaction includes details like the amount spent, the time of the transaction, and other specific indicators.
 
